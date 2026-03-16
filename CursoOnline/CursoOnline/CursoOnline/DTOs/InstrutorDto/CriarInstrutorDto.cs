@@ -7,7 +7,6 @@ namespace CursoOnline.DTOs.InstrutorDto
         public string? Nome { get; set; }
 
         public string? AreaDeEspecializacao { get; set; }
-
-        public virtual ICollection<CURSO> CURSO { get; set; } = new List<CURSO>();
+       
     }
 }

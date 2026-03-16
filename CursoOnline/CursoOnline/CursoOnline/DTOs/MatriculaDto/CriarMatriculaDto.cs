@@ -1,9 +1,11 @@
-﻿namespace CursoOnline.DTOs.MatriculaDto
+﻿using CursoOnline.Domains;
+
+namespace CursoOnline.DTOs.MatriculaDto
 {
     public class CriarMatriculaDto
     {
-        public int? FK_CursoID { get; set; }
+        public CURSO? FK_CursoNome { get; set; }
 
-        public int? FK_AlunoID { get; set; }
+        public ALUNO? FK_AlunoNome { get; set; }
     }
 }

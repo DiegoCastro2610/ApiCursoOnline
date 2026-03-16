@@ -6,8 +6,8 @@ namespace CursoOnline.DTOs.MatriculaDto
     {
         public bool? StatusMatricula { get; set; }
 
-        public virtual ALUNO? FK_Aluno { get; set; }
+        public CURSO? FK_CursoNome { get; set; }
 
-        public virtual CURSO? FK_Curso { get; set; }
+        public ALUNO? FK_AlunoNome { get; set; }
     }
 }

@@ -1,9 +1,13 @@
-﻿namespace CursoOnline.DTOs.CursoDto
+﻿using CursoOnline.Domains;
+
+namespace CursoOnline.DTOs.CursoDto
 {
     public class CriarCursoDto
     {
         public string? Nome { get; set; }
 
         public int? CargaHoraria { get; set; }
+
+        public INSTRUTOR? NomeInstrutor { get; set; }
     }
 }

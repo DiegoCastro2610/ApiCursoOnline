@@ -4166,11 +4166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45255137804\\Desktop\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
+      "projectUniqueName": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
       "projectName": "CursoOnline",
-      "projectPath": "C:\\Users\\45255137804\\Desktop\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
+      "projectPath": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
       "packagesPath": "C:\\Users\\45255137804\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\45255137804\\Desktop\\CursoOnline\\CursoOnline\\CursoOnline\\obj\\",
+      "outputPath": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4260,5 +4260,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

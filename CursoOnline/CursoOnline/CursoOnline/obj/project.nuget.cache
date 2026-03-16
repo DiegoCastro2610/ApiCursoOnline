@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQLlU8amLqw=",
+  "dgSpecHash": "ZtqkLWIbamY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\45255137804\\Desktop\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
+  "projectFilePath": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\45255137804\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\45255137804\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -83,5 +83,15 @@
     "C:\\Users\\45255137804\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\45255137804\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\45255137804\\Desktop\\Nova pasta\\CursoOnline\\CursoOnline\\CursoOnline\\CursoOnline.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
